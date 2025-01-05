@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Inbox
     description                           : Add tasks direct to Inbox
-    fontawesome_icon_name                 : inbox-in
+    fontawesome_icon_name                 : inbox
     
   - title                                 : Projects review
     description                           : Review your projects periodically
@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Project board view
     description                           : Show a project as a board (Kanban) or a list
-    fontawesome_icon_name                 : chart-kanban
+    fontawesome_icon_name                 : list
 
   - title                                 : Sync
     description                           : Sync across devices via iCloud
