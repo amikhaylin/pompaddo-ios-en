@@ -21,12 +21,12 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Andrey Mikhaylin                               
-your_link                                 : https://amikhaylin.com.com                     
+your_link                                 : https://amikhaylin.com                     
 your_city                                 : Reus                                
 email_address                             : amikhaylin@icloud.com
 facebook_username                         :                                           
 instagram_username                        : cenobith
-twitter_username                          : cenobith
+twitter_username                          : pompaddo
 github_username                           : amikhaylin
 youtube_username                          :
 mastodon_link                             : https://mastodon.social/@cenobith
@@ -36,8 +36,8 @@ mastodon_link                             : https://mastodon.social/@cenobith
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Inbox
-    description                           : Add tasks direct to Inbox
+  - title                                 : Global Inbox
+    description                           : Add your thoughts to your Inbox from anywhere in the app.
     fontawesome_icon_name                 : inbox
     
   - title                                 : Projects review
