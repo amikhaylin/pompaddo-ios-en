@@ -9,6 +9,14 @@ include_in_header: true
 <br>
 
 ### `Latest`
+
+# **Version 1.2**
+Bug fixes and improvements
+
+#### What's New
+- Fixed focus timer issues
+- Minor improvements
+
 # **Version 1.1**
 This is the first update to my app. 
 
