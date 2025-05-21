@@ -10,6 +10,17 @@ include_in_header: true
 
 ### `Latest`
 
+# **Version 1.3**
+Bug fixes and improvements
+
+#### What's New
+- Sorting projects and groups
+- Changeable width of statuses in the project board
+- A project without statuses is shown as a simple list
+- Manage the focus timer via the main menu on macOS 
+- Adding to Calendar for Today or Due Date via menu
+- Fixed projects list on landscape iPhone
+
 # **Version 1.2**
 Bug fixes and improvements
 
